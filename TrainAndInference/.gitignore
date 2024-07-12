@@ -297,3 +297,7 @@ output*.txt
 
 #
 .DS*
+
+/VRAuth2
+
+/.idea
